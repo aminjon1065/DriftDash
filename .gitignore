@@ -1,0 +1,19 @@
+# Unreal generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.idea/
+*.xcworkspace
+*.xcodeproj
+*.sln
+*.code-workspace
+.DS_Store
+# Packaged builds
+/Packaged/
+
+# Python bytecode
+__pycache__/
+*.pyc
